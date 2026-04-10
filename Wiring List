@@ -14,3 +14,6 @@ VRy	A1
 SW (button)	22
 VCC	5V
 GND	GND
+Buzzer
+POSTIVE digital 8
+GND GND
