@@ -1,0 +1,16 @@
+⚡ WIRING (IMPORTANT — clean and simple)
+MAX7219 → Arduino Mega
+MAX7219	Mega Pin
+VCC	5V
+GND	GND
+DIN	51
+CLK	52
+CS	53
+
+Joystick → Mega
+Joystick	Mega Pin
+VRx	A0
+VRy	A1
+SW (button)	22
+VCC	5V
+GND	GND
